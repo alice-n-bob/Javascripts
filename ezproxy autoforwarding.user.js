@@ -8,6 +8,9 @@
 // @grant none
 
 // @match http://www.tandfonline.com/*
+// @match https://www.reaxys.com/*
+// @match https://origin-scifinder.cas.org/*
+// @match https://scifinder.cas.org/*
 // @match http://pubs.acs.org/*
 // @match https://pubs.acs.org/*
 // @match http://acta.astrouw.edu.pl/*
