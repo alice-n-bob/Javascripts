@@ -7,6 +7,8 @@
 // @run-at document-start
 // @grant none
 
+// @match https://www.thieme.de/*
+// @match http://www.thieme-chemistry.com/*
 // @match http://www.tandfonline.com/*
 // @match https://www.reaxys.com/*
 // @match https://origin-scifinder.cas.org/*
