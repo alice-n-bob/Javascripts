@@ -1,11 +1,9 @@
 // ==UserScript==
 // @name  EzProxy Redirector
-// @namespace jtanx.plugins
-// @description Automatically redirect to the proxified equivalent as provided by the University of Western Australia.
-// @version 0.1
-// @license MIT
-// @run-at document-start
-// @grant none
+// @namespace    http://example.com
+// @author       @ronery
+// @description Automatically redirect to the proxified equivalent as provided by the UofL.
+// @updateRUL https://github.com/biochemputer/Javascripts/raw/master/ezproxy%20autoforwarding.user.js
 
 // @match https://www.thieme.de/*
 // @match http://www.thieme-chemistry.com/*
