@@ -4,6 +4,7 @@
 // @author       @ronery
 // @description Automatically redirect to the proxified equivalent as provided by the UofL.
 // @updateRUL https://github.com/biochemputer/Javascripts/raw/master/ezproxy%20autoforwarding.user.js
+// @version 0.1
 
 // @match https://www.thieme.de/*
 // @match http://www.thieme-chemistry.com/*
