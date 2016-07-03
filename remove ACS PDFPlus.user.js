@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name         Remove PDF Plus from ACS
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
-// @match        http://*/*
-// @grant        none
+// @namespace    http://example.com
+// @description  Ease Zotero Chrome Connector
+// @author       @ronery
+// @match        http://pubs.acs.org*/*
+// @updateURL    https://github.com/biochemputer/Javascripts/raw/master/remove%20ACS%20PDFPlus.user.js
 // ==/UserScript==
 
 (function() {
