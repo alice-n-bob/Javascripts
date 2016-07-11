@@ -6,8 +6,8 @@
 // @updateRUL https://github.com/biochemputer/Javascripts/raw/master/Old%20article%20view.user.js
 // @version 0.1
 
-// @match http://onlinelibrary.wiley.com/doi/*
-// @match https://onlinelibrary.wiley.com/doi/*
+// @match http://onlinelibrary.wiley.com*/doi/*
+// @match https://onlinelibrary.wiley.com*/doi/*
 
 // ==/UserScript==
 
