@@ -9,6 +9,8 @@
 // @match http://onlinelibrary.wiley.com/doi/*
 // @match https://onlinelibrary.wiley.com/doi/*
 
+// ==/UserScript==
+
 (function() {
 var url = window.location.toString();
 window.location = url.replace("doi/10.1002", "wol1/doi/10.1002");
