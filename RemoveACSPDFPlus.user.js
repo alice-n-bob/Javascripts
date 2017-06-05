@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         Remove PDF Plus from ACS
-// @namespace    http://example.com
 // @description  Ease Zotero Chrome Connector
 // @author       @ronery
+// @version      1.0
 // @match        http://pubs.acs.org/*
-// @match        http://pubs.acs.org.echo.louisville.edu/*
-// @updateURL    https://github.com/biochemputer/Javascripts/raw/master/remove%20ACS%20PDFPlus.user.js
+// @grant        none
+// @updateURL    https://github.com/lanbingxuanyi/Javascripts/raw/master/RemoveACSPDFPlus.user.js
 // ==/UserScript==
 
 (function() {
